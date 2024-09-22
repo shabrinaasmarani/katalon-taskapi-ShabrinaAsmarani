@@ -12,3 +12,5 @@ Assignment 2 - Bootcamp Quality Assurance
 9. Tambahkan test case ke test suite.
 10. Lakukan test pada test suite. 
 11. Laporan dari test suite muncul.
+
+test
